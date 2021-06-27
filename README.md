@@ -15,11 +15,11 @@ WR - Frequency -  RF Data Rate -  Output Power -  UART-Rate -  Series check,
 e.g. "WR 433900 1 9 3 0"
 check the corresponding radio configuration code. 
 Possible values for all these settings:
-    • Frequency: Unit is KHz,for example 434MHz is 434000
-    • RF Data Rate: 1,2,3 and 4 refer to 2400,4800,9600,19200bps
-    • Output Power: 0 to 9; 9 means 13dBm (20mW)
-    • UART Rate: 0,1,2,3,4,5 and 6 refers to 1200,2400,4800,9600, 19200,38400,57600bps
-    • Series Check: Series checkout:0 means no check,1 means even parity,2 means odd parity.
+- Frequency: Unit is KHz,for example 434MHz is 434000
+- RF Data Rate: 1,2,3 and 4 refer to 2400,4800,9600,19200bps
+- Output Power: 0 to 9; 9 means 13dBm (20mW)
+- UART Rate: 0,1,2,3,4,5 and 6 refers to 1200,2400,4800,9600, 19200,38400,57600bps
+- Series Check: Series checkout:0 means no check,1 means even parity,2 means odd parity.
 
 Using the above example the radios are onfigured at: 433.9MHz, 2400bps, 13dBm, 9600 bps, no check.
 
