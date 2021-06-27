@@ -1,4 +1,4 @@
-# The-Canservationists
+# The Canservationists - CanSat NL 2021 Competition
 The Arduino code that we used for our participation to ESERO NL CanSat competition 2021. 
 
 - cansat_code.ino is the code we uploadded to CanSat itself to fulfil its mission. 
