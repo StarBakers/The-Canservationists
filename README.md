@@ -23,7 +23,9 @@ Possible values for all these settings:
 
 Using the above example the radios are onfigured at: 433.9MHz, 2400bps, 13dBm, 9600 bps, no check.
 
-For questions: filvag04@gmail.com
+For questions: filvag04 AT gmail DOT com
 Blogpost: https://atlasbros.blogspot.com/2021/06/using-cansat-to-monitor-local-gas.html (where you can also find the whole report)
 
 Enjoy :-) 
+
+The Canservationists
